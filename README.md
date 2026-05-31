@@ -67,11 +67,5 @@ Autor
 Projeto desenvolvido para fins acadêmicos e de aprendizagem, explorando conceitos de eletrônica, automação e programação embarcada com MicroPython.
 
 
-
-
-
-
-
-
-![<img width="773" height="379" alt="WOWW" src="https://github.com/user-attachments/assets/51f808b6-de46-4b06-8903-9e028f53094a" />
-](https://user-images.githubusercontent.com/...)
+![imagem](<img width="773" height="379" alt="WOWW" src="https://github.com/user-attachments/assets/0ac0c907-3c65-4a23-9088-65e7cb1d51e3" />
+)
