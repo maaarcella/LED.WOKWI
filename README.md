@@ -73,4 +73,5 @@ Projeto desenvolvido para fins acadêmicos e de aprendizagem, explorando conceit
 
 
 
-![Captura de tela 2026-05-31 193143](https://user-images.githubusercontent.com/...)
+![<img width="773" height="379" alt="WOWW" src="https://github.com/user-attachments/assets/51f808b6-de46-4b06-8903-9e028f53094a" />
+](https://user-images.githubusercontent.com/...)
