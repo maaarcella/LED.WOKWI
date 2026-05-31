@@ -1,0 +1,25 @@
+import machine
+import time 
+
+led1 = machine.Pin (42, machine.Pin.OUT)
+botao1 = machine.Pin(34, machine.Pin.IN, machine.Pin.PULL_UP)
+led2 = machine.Pin (41, machine.Pin.OUT)
+botao2 = machine.Pin(35, machine.Pin.IN, machine.Pin.PULL_UP)
+led3 = machine.Pin (40, machine.Pin.OUT)
+botao3 = machine.Pin(36, machine.Pin.IN, machine.Pin.PULL_UP)
+while (True) :
+    estado1 = botao1.value()
+    estado2 = botao2.value()
+    estado3 = botao3.value()
+
+    if (estado1 == 0):
+        led1.on()
+        time.sleep(1)
+        led1.off
+        led2.on()
+        time.sleep(3)
+        led2.off()
+        led3.on()
+        time.sleep(5)
+        led3.off()
+    
